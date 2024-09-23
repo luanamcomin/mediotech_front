@@ -1,0 +1,47 @@
+body {
+  background-color: #9747FF;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.m-auto {
+  margin: 40px !important;
+}
+
+.container {
+  text-align: center;
+  display: inline-block;
+  margin-top: 60px;
+}
+
+.bottom-row {
+  margin-top: 0px;
+}
+
+.links {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.link {
+  color: #000000;
+  display: block;
+  margin: 30px 0;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.form-floating{
+  margin-bottom: 15px;
+}
