@@ -1,24 +1,62 @@
+.titulo {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 28px;
+
+}
+
 table {
-    width: 100%;
+    width: 100%;  
   }
   
+.tabela_topo {
+  background-color: #D9D9D9;
+
+}
+
 .selecao {
   display: flex;
   flex-direction: row;
   gap: 32px;
+  margin: 20px;
+}
+
+.selecao_opcao {
+  width: 300px;
 
 }
 
 .selecao_barra {
-  width: 500px; /* Ajuste para o tamanho desejado */  
+  width: 600px; /* Ajuste para o tamanho desejado */  
   border-radius: 4px; /* Reduz a arredondamento dos cantos */
 }
 
-.selecao_botoes {
+.example-button-row {
   display: flex;
-  gap: 8px; /* Ajusta o espaçamento entre os botões */
+  flex-direction: row;
+  justify-content: right;
+  margin-right: 30px;
+  gap: 10px;
 }
-  font-size: 16px; /* Aumenta o tamanho da fonte */
 
+.botao1 {
+  background-color: #00CD0F;
+  width: 150px;
+  padding: 5px;
+  border-radius: 4px;
+}
 
+.botao2 {
+  background-color: #FF3232;  
+  width: 80px;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.botao3 {
+  background-color: #D9D9D9;
+  width: 80px;
+  padding: 5px;
+  border-radius: 4px;
 }

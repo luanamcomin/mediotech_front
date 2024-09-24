@@ -24,16 +24,16 @@ export interface Options {
 
   // Dados de exemplo
   const ELEMENT_DATA: PeriodicElement[] = [
-    { nome: 'Hydrogen', email: 'hydrogen@example.com', telefone: 'H', dataContratacao: '01/02/2024' },
-    { nome: 'Helium', email: 'helium@example.com', telefone: 'He', dataContratacao: '01/02/2024' },
-    { nome: 'Lithium', email: 'lithium@example.com', telefone: 'Li', dataContratacao: '01/02/2024' },
-    { nome: 'Beryllium', email: 'beryllium@example.com', telefone: 'Be', dataContratacao: '01/02/2024' },
-    { nome: 'Boron', email: 'boron@example.com', telefone: 'B', dataContratacao: '01/02/2024' },
-    { nome: 'Carbon', email: 'carbon@example.com', telefone: 'C', dataContratacao: '01/02/2024' },
-    { nome: 'Nitrogen', email: 'nitrogen@example.com', telefone: 'N', dataContratacao: '01/02/2024' },
-    { nome: 'Oxygen', email: 'oxygen@example.com', telefone: 'O', dataContratacao: '01/02/2024' },
-    { nome: 'Fluorine', email: 'fluorine@example.com', telefone: 'F', dataContratacao: '01/02/2024' },
-    { nome: 'Neon', email: 'neon@example.com', telefone: 'Ne', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
+    { nome: 'Joao Pedro', email: 'joaoprof@seenac.com', telefone: '(81) 99876-6543', dataContratacao: '01/02/2024' },
   ];
 
   
