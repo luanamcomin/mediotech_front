@@ -1,3 +1,5 @@
+import { MatSelectModule } from '@angular/material/select';
+import { MatFormFieldModule } from '@angular/material/form-field';
 import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { HomeComponent } from '../home/home.component';
@@ -7,7 +9,9 @@ import { HomeComponent } from '../home/home.component';
   standalone: true,
   imports: [
     RouterLink,
-    HomeComponent
+    HomeComponent,
+    MatFormFieldModule, 
+    MatSelectModule
   ],
   templateUrl: './login.component.html',
   styleUrl: './login.component.css'
@@ -15,3 +19,4 @@ import { HomeComponent } from '../home/home.component';
 export class LoginComponent {
 
 }
+
